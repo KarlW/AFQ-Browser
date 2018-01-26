@@ -1,0 +1,16 @@
+A researcher in our lab recommended that I share our install experiences.
+
+error: can't copy 'afqbrowser/site/client': doesn't exist or not a regular file
+
+is persistent with Debian 3.16.51-3 kernel and Python 2.7.13 |Anaconda 2.5.0
+for all of the install methods listed in the documentation. .
+
+The 'client' directory does exist, so this message is misleading.
+
+/usr/local/anaconda/lib/python2.7/site-packages/AFQ-Browser.egg-link
+is the only result of these installations.
+sudo/root used to perform the install
+
+- Karl Woelfer
+University of Washington, Radiology, Integrated Brain Imaging Center
+
